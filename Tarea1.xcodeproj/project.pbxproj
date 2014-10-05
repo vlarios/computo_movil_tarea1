@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B42AF8C919E1A57C00198109 /* guadalajara.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B42AF8C819E1A57C00198109 /* guadalajara.jpg */; };
+		B42AF8CB19E1B01000198109 /* Chivas-Guadalajara-211.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B42AF8CA19E1B01000198109 /* Chivas-Guadalajara-211.jpg */; };
+		B42AF8D219E1C9EB00198109 /* america.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B42AF8D119E1C9EB00198109 /* america.jpg */; };
+		B42AF8D419E1D07800198109 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B42AF8D319E1D07800198109 /* MediaPlayer.framework */; };
+		B42AF8D619E1E0EB00198109 /* dogs.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B42AF8D519E1E0EB00198109 /* dogs.mp4 */; };
 		B4BCEC5E19DE8C4300D175AD /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4BCEC5D19DE8C4300D175AD /* Foundation.framework */; };
 		B4BCEC6019DE8C4300D175AD /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4BCEC5F19DE8C4300D175AD /* CoreGraphics.framework */; };
 		B4BCEC6219DE8C4300D175AD /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4BCEC6119DE8C4300D175AD /* UIKit.framework */; };
@@ -21,6 +26,9 @@
 		B4BCEC7F19DE8C4300D175AD /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4BCEC6119DE8C4300D175AD /* UIKit.framework */; };
 		B4BCEC8719DE8C4300D175AD /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = B4BCEC8519DE8C4300D175AD /* InfoPlist.strings */; };
 		B4BCEC8919DE8C4300D175AD /* Tarea1Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = B4BCEC8819DE8C4300D175AD /* Tarea1Tests.m */; };
+		B4BCEC9519DE8E1200D175AD /* photo1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B4BCEC9219DE8E1100D175AD /* photo1.jpg */; };
+		B4BCEC9619DE8E1200D175AD /* photo2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B4BCEC9319DE8E1100D175AD /* photo2.jpg */; };
+		B4BCEC9719DE8E1200D175AD /* photo3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B4BCEC9419DE8E1100D175AD /* photo3.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +42,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B42AF8C819E1A57C00198109 /* guadalajara.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = guadalajara.jpg; path = ../../guadalajara.jpg; sourceTree = "<group>"; };
+		B42AF8CA19E1B01000198109 /* Chivas-Guadalajara-211.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Chivas-Guadalajara-211.jpg"; path = "../../Chivas-Guadalajara-211.jpg"; sourceTree = "<group>"; };
+		B42AF8D119E1C9EB00198109 /* america.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = america.jpg; path = ../../america.jpg; sourceTree = "<group>"; };
+		B42AF8D319E1D07800198109 /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
+		B42AF8D519E1E0EB00198109 /* dogs.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = dogs.mp4; path = ../../dogs.mp4; sourceTree = "<group>"; };
 		B4BCEC5A19DE8C4300D175AD /* Tarea1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tarea1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4BCEC5D19DE8C4300D175AD /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		B4BCEC5F19DE8C4300D175AD /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -53,6 +66,9 @@
 		B4BCEC8419DE8C4300D175AD /* Tarea1Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Tarea1Tests-Info.plist"; sourceTree = "<group>"; };
 		B4BCEC8619DE8C4300D175AD /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		B4BCEC8819DE8C4300D175AD /* Tarea1Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tarea1Tests.m; sourceTree = "<group>"; };
+		B4BCEC9219DE8E1100D175AD /* photo1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = photo1.jpg; path = ../../photo1.jpg; sourceTree = "<group>"; };
+		B4BCEC9319DE8E1100D175AD /* photo2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = photo2.jpg; path = ../../photo2.jpg; sourceTree = "<group>"; };
+		B4BCEC9419DE8E1100D175AD /* photo3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = photo3.jpg; path = ../../photo3.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +76,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B42AF8D419E1D07800198109 /* MediaPlayer.framework in Frameworks */,
 				B4BCEC6019DE8C4300D175AD /* CoreGraphics.framework in Frameworks */,
 				B4BCEC6219DE8C4300D175AD /* UIKit.framework in Frameworks */,
 				B4BCEC5E19DE8C4300D175AD /* Foundation.framework in Frameworks */,
@@ -101,6 +118,7 @@
 		B4BCEC5C19DE8C4300D175AD /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				B42AF8D319E1D07800198109 /* MediaPlayer.framework */,
 				B4BCEC5D19DE8C4300D175AD /* Foundation.framework */,
 				B4BCEC5F19DE8C4300D175AD /* CoreGraphics.framework */,
 				B4BCEC6119DE8C4300D175AD /* UIKit.framework */,
@@ -115,8 +133,15 @@
 				B4BCEC6C19DE8C4300D175AD /* AppDelegate.h */,
 				B4BCEC6D19DE8C4300D175AD /* AppDelegate.m */,
 				B4BCEC6F19DE8C4300D175AD /* Main.storyboard */,
+				B42AF8D519E1E0EB00198109 /* dogs.mp4 */,
+				B42AF8CA19E1B01000198109 /* Chivas-Guadalajara-211.jpg */,
+				B42AF8D119E1C9EB00198109 /* america.jpg */,
+				B4BCEC9219DE8E1100D175AD /* photo1.jpg */,
+				B4BCEC9319DE8E1100D175AD /* photo2.jpg */,
+				B4BCEC9419DE8E1100D175AD /* photo3.jpg */,
 				B4BCEC7219DE8C4300D175AD /* ViewController.h */,
 				B4BCEC7319DE8C4300D175AD /* ViewController.m */,
+				B42AF8C819E1A57C00198109 /* guadalajara.jpg */,
 				B4BCEC7519DE8C4300D175AD /* Images.xcassets */,
 				B4BCEC6419DE8C4300D175AD /* Supporting Files */,
 			);
@@ -227,8 +252,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B4BCEC9719DE8E1200D175AD /* photo3.jpg in Resources */,
+				B42AF8D219E1C9EB00198109 /* america.jpg in Resources */,
+				B4BCEC9619DE8E1200D175AD /* photo2.jpg in Resources */,
+				B42AF8CB19E1B01000198109 /* Chivas-Guadalajara-211.jpg in Resources */,
+				B42AF8C919E1A57C00198109 /* guadalajara.jpg in Resources */,
+				B4BCEC9519DE8E1200D175AD /* photo1.jpg in Resources */,
 				B4BCEC7619DE8C4300D175AD /* Images.xcassets in Resources */,
 				B4BCEC6819DE8C4300D175AD /* InfoPlist.strings in Resources */,
+				B42AF8D619E1E0EB00198109 /* dogs.mp4 in Resources */,
 				B4BCEC7119DE8C4300D175AD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -455,6 +487,7 @@
 				B4BCEC8E19DE8C4300D175AD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B4BCEC8F19DE8C4300D175AD /* Build configuration list for PBXNativeTarget "Tarea1Tests" */ = {
 			isa = XCConfigurationList;
@@ -463,6 +496,7 @@
 				B4BCEC9119DE8C4300D175AD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
