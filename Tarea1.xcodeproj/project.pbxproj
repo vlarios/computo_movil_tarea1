@@ -12,6 +12,8 @@
 		B42AF8D219E1C9EB00198109 /* america.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B42AF8D119E1C9EB00198109 /* america.jpg */; };
 		B42AF8D419E1D07800198109 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B42AF8D319E1D07800198109 /* MediaPlayer.framework */; };
 		B42AF8D619E1E0EB00198109 /* dogs.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B42AF8D519E1E0EB00198109 /* dogs.mp4 */; };
+		B4974D7319E24351005C27B2 /* photo4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B4974D7219E24351005C27B2 /* photo4.jpg */; };
+		B4974D7519E24363005C27B2 /* photo5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B4974D7419E24363005C27B2 /* photo5.jpg */; };
 		B4BCEC5E19DE8C4300D175AD /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4BCEC5D19DE8C4300D175AD /* Foundation.framework */; };
 		B4BCEC6019DE8C4300D175AD /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4BCEC5F19DE8C4300D175AD /* CoreGraphics.framework */; };
 		B4BCEC6219DE8C4300D175AD /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4BCEC6119DE8C4300D175AD /* UIKit.framework */; };
@@ -47,6 +49,8 @@
 		B42AF8D119E1C9EB00198109 /* america.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = america.jpg; path = ../../america.jpg; sourceTree = "<group>"; };
 		B42AF8D319E1D07800198109 /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
 		B42AF8D519E1E0EB00198109 /* dogs.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = dogs.mp4; path = ../../dogs.mp4; sourceTree = "<group>"; };
+		B4974D7219E24351005C27B2 /* photo4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = photo4.jpg; path = ../../photo4.jpg; sourceTree = "<group>"; };
+		B4974D7419E24363005C27B2 /* photo5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = photo5.jpg; path = ../../photo5.jpg; sourceTree = "<group>"; };
 		B4BCEC5A19DE8C4300D175AD /* Tarea1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tarea1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4BCEC5D19DE8C4300D175AD /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		B4BCEC5F19DE8C4300D175AD /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -133,6 +137,8 @@
 				B4BCEC6C19DE8C4300D175AD /* AppDelegate.h */,
 				B4BCEC6D19DE8C4300D175AD /* AppDelegate.m */,
 				B4BCEC6F19DE8C4300D175AD /* Main.storyboard */,
+				B4974D7419E24363005C27B2 /* photo5.jpg */,
+				B4974D7219E24351005C27B2 /* photo4.jpg */,
 				B42AF8D519E1E0EB00198109 /* dogs.mp4 */,
 				B42AF8CA19E1B01000198109 /* Chivas-Guadalajara-211.jpg */,
 				B42AF8D119E1C9EB00198109 /* america.jpg */,
@@ -252,9 +258,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B4974D7319E24351005C27B2 /* photo4.jpg in Resources */,
 				B4BCEC9719DE8E1200D175AD /* photo3.jpg in Resources */,
 				B42AF8D219E1C9EB00198109 /* america.jpg in Resources */,
 				B4BCEC9619DE8E1200D175AD /* photo2.jpg in Resources */,
+				B4974D7519E24363005C27B2 /* photo5.jpg in Resources */,
 				B42AF8CB19E1B01000198109 /* Chivas-Guadalajara-211.jpg in Resources */,
 				B42AF8C919E1A57C00198109 /* guadalajara.jpg in Resources */,
 				B4BCEC9519DE8E1200D175AD /* photo1.jpg in Resources */,

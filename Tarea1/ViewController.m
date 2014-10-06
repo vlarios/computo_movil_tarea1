@@ -99,10 +99,20 @@ int scoreCnt=0;
         cnt++;
     }
     else if (cnt==2) {
-        UIImage *image = [UIImage imageNamed: @"photo1.jpg"];
+        UIImage *image = [UIImage imageNamed: @"photo4.jpg"];
         [self.myImage setImage:image];
         cnt++;
+    }
+    else if (cnt==3) {
+        UIImage *image = [UIImage imageNamed: @"photo5.jpg"];
+        [self.myImage setImage:image];
+        cnt++;
+    }
+    else if (cnt==4) {
+        UIImage *image = [UIImage imageNamed: @"photo1.jpg"];
+        [self.myImage setImage:image];
         cnt=0;
+        
     }
     
 }
